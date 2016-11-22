@@ -53,6 +53,7 @@ class Bag
     return max,maxcode
   end
 end
+#测试程序
 class Main
   test=Array.new
   test<<Thing.new(10,5)
